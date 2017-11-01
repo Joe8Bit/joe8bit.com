@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joe Pettersson</title>
+    <description>I&#39;m the Technical Lead (UI Engineering) at McKinsey &amp; Company. I also write code, write books and speak at conferences.</description>
+    <link>http://joe8bit.com/</link>
+    <atom:link href="http://joe8bit.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 06 Jan 2016 18:12:28 +0000</pubDate>
+    <lastBuildDate>Wed, 06 Jan 2016 18:12:28 +0000</lastBuildDate>
+    <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>The toxicity of arrogance</title>
+        <description>&lt;p&gt;The community of people that work in technology have a problem, we’ve built a meritocracy of assholes, and it’s &lt;em&gt;toxic&lt;/em&gt; to inclusivity. Taking a look at the public face of technology reveals a place where the cult of ‘meritocracy’ has resulted in the creation of ego’s and attitudes from some of our industries leading thinkers and practitioners that fundamentally violate the thing so succinctly summed up in Wheaton’s Law &lt;a href=&quot;#wheatons&quot;&gt;*&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Q: What is Wheaton’s Law? A: “Don’t be a dick!” - &lt;a href=&quot;https://twitter.com/wilw/status/5966220832&quot;&gt;Wil Wheaton&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Three of the main avenues of &lt;em&gt;public&lt;/em&gt; discourse in technology (social media, Github and conferences) are infected with the kind of skewed, adolescent, male power structures that are more at home in a school playground than a professional environment that self-describes itself (rather hubristically) as wanting to change the world.&lt;/p&gt;
+
+&lt;div class=&quot;pull-out&quot;&gt;
+  When talking to people about this post there were suggestions that I should &#39;name and shame&#39; some individuals involved, but I&#39;m not going to do that. The only purpose it would serve is to frame this post as a personal attack, and more than that I think it violates the &quot;Don&#39;t be a dick&quot; rule. 
+&lt;/div&gt;
+
+&lt;p&gt;I won’t be dealing with &lt;em&gt;why&lt;/em&gt; a meritocracy is a bad thing, other people have done &lt;a href=&quot;http://techcrunch.com/2011/11/19/racism-and-meritocracy/&quot;&gt;it&lt;/a&gt; &lt;a href=&quot;http://www.wired.com/2013/11/silicon-valley-isnt-a-meritocracy-and-the-cult-of-the-entrepreneur-holds-people-back/&quot;&gt;better&lt;/a&gt; &lt;a href=&quot;http://www.npr.org/blogs/alltechconsidered/2014/02/06/272646267/how-the-meritocracy-myth-affects-women-in-technology&quot;&gt;than I&lt;/a&gt; &lt;a href=&quot;http://www.prospectmagazine.co.uk/politics/the-problem-with-meritocracy-twilight-elites-review-hayes&quot;&gt;ever&lt;/a&gt; &lt;a href=&quot;http://www.slate.com/blogs/moneybox/2013/03/25/meritocracy_is_bad_it_leads_to_massive_entrenched_inequality.html&quot;&gt;could&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;social-media&quot;&gt;Social media&lt;/h3&gt;
+
+&lt;p&gt;Social media has been the best thing to happen to our community, it has lowered the barriers to communication and collaboration in a way that I don’t think anyone could have predicted, but it has also led to a terse culture of dismissal and attack.&lt;/p&gt;
+
+&lt;p&gt;Far too often you watch people engage in the kind of nasty, personal attacks that naive experience tells you people would &lt;em&gt;never&lt;/em&gt; indulge in real world interactions.&lt;/p&gt;
+
+&lt;p&gt;I’m not talking here about the toxic cesspool of social media that seeks to degrade and abuse people at every opportunity, particularly so if you’re female or (heaven forfend!) just not a member of the young, white, male and heteronormative morass. That part of the internet deserves to be fired at high speed into the nearest star. I’m talking about what is seen as the positive side of social media, the place where the &lt;em&gt;value&lt;/em&gt; lives.&lt;/p&gt;
+
+&lt;p&gt;Too easily nasty adjectives are thrown around, describing ideas or even the people that produce them as ‘stupid’ or ‘idiotic’. Too easily do what start out as constructive discussions end in name calling and barely concealed personal attacks. Too easily are we ready as a community to throw people’s ideas and work under the train of subjective ‘reality’.&lt;/p&gt;
+
+&lt;p&gt;Do bad ideas need to examined and dismissed? You bet. Do people spreading misinformation need to be called out? No question, but do we need to do with it with the attitude of condescending indifference and barely controlled mocking laughter? No, we don’t. Look at pretty much any Hacker News submission to see the kind of attitude I’m talking about here.&lt;/p&gt;
+
+&lt;p&gt;Building positive and constructive discourse on social media is a &lt;em&gt;key&lt;/em&gt; to building an inclusive community, that means not dismissing people who know not quite as much as you so easily, giving feedback and accepting it in return. Is it your responsibility to reach out and spend time doing this? Maybe not, but it is your responsibility to treat people with the dignity and respect they deserve when dealing with them on social media? Yes, it is.&lt;/p&gt;
+
+&lt;h3 id=&quot;github&quot;&gt;Github&lt;/h3&gt;
+
+&lt;p&gt;Github has come to represent, for me at least, a lot that is good about open source and community building in modern software engineering, but due to it’s size and rambling complexity it also attracts the kind of attitudes I talked about above.&lt;/p&gt;
+
+&lt;p&gt;The arrogant dismissal of issues or bugs, the language and pronouns that are used in documentation can serve to alienate a sizable chunk of the community. Others have written on this subject far more eloquently that I ever could, &lt;a href=&quot;http://where.coraline.codes/&quot;&gt;Coraline Ada Ehmke&lt;/a&gt; in particular, who has created what I think is becoming one of the most valuable documents available to the open source community: the &lt;a href=&quot;http://contributor-covenant.org/&quot;&gt;Contributor Covenant&lt;/a&gt;, which in it’s words is:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;An easy way to begin addressing this problem [the startling lack of diversity of participants, including women, people of color, and other minority populations] is to be overt in our openness, welcoming all people to contribute, and pledging in return to value them as human beings and to foster an atmosphere of kindness, cooperation, and understanding.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Contributor Covenant can be one way to express these values. Pledge your respect and appreciation for contributors and participants your open source project by adding an explicit CODE_OF_CONDUCT.md to your project repository.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The adoption of the Contributor Covenant is growing, with notable projects like AngularJS (and many others!) adopting it’s values. To demonstrate it’s obvious necessity, read it and then apply it’s principles to your favourite project on Github, what would have to change? In many cases, it’s quite a lot.  &lt;/p&gt;
+
+&lt;h3 id=&quot;tech-conferences&quot;&gt;Tech conferences&lt;/h3&gt;
+
+&lt;p&gt;Having conversations with others in the community about the above will usually lead to an easy to form conclusion: sure, people aren’t nice on the internet, but they’d &lt;em&gt;never&lt;/em&gt; be like that in person!&lt;/p&gt;
+
+&lt;p&gt;If you’ve ever been to a tech conference, you can attest to the fact that it unfortunately carries over to in person encounters to. Curiously impersonal ones admittedly but face-to-face nevertheless.&lt;/p&gt;
+
+&lt;p&gt;There’s a few examples that illustrate the problem:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Questions after a talk&lt;/strong&gt;. Too often these ad-hoc questions are not used to push forward a discussion on a topic or get as much value from a persons experience as possible, they’re used to demonstrate the cleverness of the person asking the question. A question that lasts for 60 seconds can be 45 of public ego-stroking and 15 of perfunctory or provocatory question at the end.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Holding court&lt;/strong&gt;. People with (sometimes rightfully) great reputations in communities can use conferences (usually when they’re speaking at them) as proxies to hold court. Seeking to spend their time holding court with a coterie of admirers and quickly dismissing questions they deem unworthy with a knowing smile or subtle eye roll.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The “dudes at the bar” problem&lt;/strong&gt;. There’s a lot of bullshit ladishness at conferences, too often when a group of &amp;lt;30 year old men get together in one place with cheap or free alcohol a predictable atmosphere is created. It’s not good, it makes people feel uncomfortable. Being the vaguely liberal, vaguely well educated group or predominantly white straight men that we are we think this “isn’t really &lt;em&gt;that&lt;/em&gt; much of a problem”, but it is, just ask someone who isn’t part of that group who’s been to a tech conference if you don’t believe me.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Finally, there’s an even more insidious and flagrant group of people at tech conferences, those who still loudly decry their misogynist, transphobic, homophobic and racist bullshit. This &lt;em&gt;has&lt;/em&gt; to stop, these people need naming and shaming and ostracising from our community, only then can we deal with the more subtle problems our conferences face.&lt;/p&gt;
+
+&lt;p&gt;The positive thing is that there’s a growing movement at tech conferences to have well documented and enforced Code of Conduct. This is awesome and is to be applauded, but we as attendees and organisers need to do more to hold ourselves and others to the high standards these conduct documents require us to.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-is-tech-so-bad&quot;&gt;Why is tech so bad?&lt;/h3&gt;
+
+&lt;p&gt;It’s not, having worked in legal, financial and other fields the tech industry is no worse than some and better than others, but I think there are a couple of things that in combination lead to a particular nexus in the tech community:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The nature of our work is, in lots of cases, an introverted intellectual one. This can lead to the stereotype of the brilliant anti-social engineer that we all know. It is hard to relate to the world when you spend all day in your head. When you form hypothesis and ideas internally it’s difficult for people to relate to them in exactly the way you do. However, we forgive people too much their lack of social niceties.&lt;/li&gt;
+  &lt;li&gt;The startup circle-jerk (apologies for the crassness of that, but it’s a good summation) has led to the kind of inflated, ego driven cult of personality and individual worship that means keeping a level, modest head on your shoulders can be hard. “I’m paid really well and sought after by some of the most important, innovative organisations in the world, of course my opinion’s important!”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;so-what-can-we-do&quot;&gt;So what can we do?&lt;/h3&gt;
+
+&lt;p&gt;Follow some simple rules when interacting with people, be it online or off:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Be open to other people’s ideas and opinions.&lt;/li&gt;
+  &lt;li&gt;Welcome &lt;em&gt;everyone&lt;/em&gt; to contribute regardless of their experience, gender, sexual identity, race, physical ability or religion.&lt;/li&gt;
+  &lt;li&gt;Be kind, be cooperative, be understanding.&lt;/li&gt;
+  &lt;li&gt;Be thoughtful with your language, particularly when it comes to personal pronouns or sexually or racially inappropriate names or words.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you feel these things are being violated and make you uncomfortable, please don’t stay silent. This is easier said than done, but know that there are people who care and will help.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;sup id=&quot;wheatons&quot; name=&quot;wheatons&quot;&gt;*&lt;/sup&gt; &lt;small&gt;I realise using this language runs the risk of using of doing &lt;em&gt;exactly&lt;/em&gt; what this post is talking about (gendered language etc), but I hope the generalness and non-sexual connotation of the phrase allows me to just use it in the original spirit it was meant. Please contact me on &lt;a href=&quot;https://twitter.com/Joe8bit&quot;&gt;Twitter&lt;/a&gt; if you think this is wrong!&lt;/small&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Feb 2015 16:44:43 +0000</pubDate>
+        <link>http://joe8bit.com/article/the-toxicity-of-arrogance</link>
+        <guid isPermaLink="true">http://joe8bit.com/article/the-toxicity-of-arrogance</guid>
+        
+        
+        <category>article</category>
+        
+      </item>
+    
+      <item>
+        <title>On conference topics</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;This post is based on my experiences speaking at 40+ conferences in the last couple of years, and how my thoughts have developed. This isn’t in reference to one particular conference, but a summation of my general thoughts.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Conferences are expensive things. They’re expensive to put on and expensive to attend. They require an investment in time and money from a group of people putting them on that’s scary, especially when you’re doing it without relying on an existing conference brand.&lt;/p&gt;
+
+&lt;p&gt;There seems to be an easy way to mitigate some of this risk: broaden your customer base. Don’t narrow the focus of your conference too much, make it appealing to the greatest number of people possible. The more people that want to buy tickets the better, right?&lt;/p&gt;
+
+&lt;p&gt;When it comes to ‘web’ focused conferences, that tends to mean one thing: combining design and engineering topics into one cohesive agenda.&lt;/p&gt;
+
+&lt;p&gt;On the face of it, this is a &lt;em&gt;great&lt;/em&gt; idea. Not only do you potentially derisk your ticket sales, but you ‘bring people together’ to talk about the future of the web! What’s not to love?&lt;/p&gt;
+
+&lt;p&gt;But there &lt;em&gt;is&lt;/em&gt; a problem, and it’s a problem that leaves people unsatisfied.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-purpose-of-tech-conferences&quot;&gt;The purpose of tech conferences&lt;/h3&gt;
+
+&lt;p&gt;In my experience there are two types of tech conferences: broad and deep. Broad conferences are those that have lots of ‘101 in this thing’, ‘intro to this other thing’, whereas deep conferences are (exactly what they sound like) deep dives on narrow subjects.&lt;/p&gt;
+
+&lt;p&gt;The first are places where people can be introduced to a broad number of concepts that are not &lt;em&gt;quite&lt;/em&gt; on the bleeding edge of the field, the second is a place where people at that edge can talk and push the communities knowledge even further.&lt;/p&gt;
+
+&lt;p&gt;My personal preferences are for the later, but I am the first to recognise the value of the former, people new to the ‘web’ ecosystem &lt;em&gt;need&lt;/em&gt; a place where they can learn and grow their knowledge and these types of conferences are a great place for it! Now, I think it’s a &lt;em&gt;really expensive&lt;/em&gt; place for them to learn about it, but that’s neither here nor there.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-we-shouldnt-mix-the-two&quot;&gt;Why we shouldn’t mix the two&lt;/h3&gt;
+
+&lt;p&gt;The problem I highlighted in the first paragraph’s occur because design + engineering conferences tend to &lt;em&gt;mix&lt;/em&gt; the two types of conferences. I’ll illustrate this with a fictitious conference schedule:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Attendee&lt;/th&gt;
+      &lt;th&gt;Intro to tech 1&lt;/th&gt;
+      &lt;th&gt;Intro to design 1&lt;/th&gt;
+      &lt;th&gt;Deep dive of tech 2&lt;/th&gt;
+      &lt;th&gt;Deep dive on design 2&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Experienced designer&lt;/td&gt;
+      &lt;td&gt;Interested&lt;/td&gt;
+      &lt;td&gt;Bored&lt;/td&gt;
+      &lt;td&gt;Can’t follow&lt;/td&gt;
+      &lt;td&gt;Interested&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Newbie designer&lt;/td&gt;
+      &lt;td&gt;Interested&lt;/td&gt;
+      &lt;td&gt;Interested&lt;/td&gt;
+      &lt;td&gt;Can’t follow&lt;/td&gt;
+      &lt;td&gt;Can’t follow&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Experienced engineer&lt;/td&gt;
+      &lt;td&gt;Border&lt;/td&gt;
+      &lt;td&gt;Interested&lt;/td&gt;
+      &lt;td&gt;Interested&lt;/td&gt;
+      &lt;td&gt;Can’t follow&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Newbie engineer&lt;/td&gt;
+      &lt;td&gt;Interested&lt;/td&gt;
+      &lt;td&gt;Interested&lt;/td&gt;
+      &lt;td&gt;Can’t follow&lt;/td&gt;
+      &lt;td&gt;Can’t follow&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;From this table, which reflects a &lt;em&gt;lot&lt;/em&gt; of the experiences I’ve seen people having at these types of conferences, you can see that &lt;strong&gt;nobody is taking value from more than 50% of the program!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Considering how expensive these conferences can be, only really enjoying less than 50% of the program is not conducive to building a strong conference brand, or a good experience for your customers.&lt;/p&gt;
+
+&lt;h3 id=&quot;chasing-unicorns&quot;&gt;Chasing unicorns&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;But Joe, what about all those awesome designer/developer switch-hitters?!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;People who are great engineers are incredibly hard to find, people who are great designers are equally hard to find. People that do both well? Those are the unicorns you’re chasing. There are not enough of them to fill a conference.&lt;/p&gt;
+
+&lt;p&gt;There &lt;em&gt;are&lt;/em&gt; people that do both, but I’ve rarely met people (there &lt;em&gt;are&lt;/em&gt; some exceptions!) who do both any better than average. So the broad conferences make a &lt;em&gt;lot&lt;/em&gt; of sense for these people. They have to cover &lt;em&gt;so much content&lt;/em&gt; to do both well that the broad conferences make a lot of sense for them keeping track of current trends.&lt;/p&gt;
+
+&lt;h3 id=&quot;so-what-should-i-do-cancel-my-conference&quot;&gt;So what should I do? Cancel my conference?!&lt;/h3&gt;
+
+&lt;p&gt;Of course not, but there are a couple things you &lt;em&gt;should&lt;/em&gt; do:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Be honest with your potential attendees, tell them of the type of program your building &lt;strong&gt;before&lt;/strong&gt; they buy. This means having a reasonable idea as to your schedule before most people buy tickets.&lt;/li&gt;
+  &lt;li&gt;Don’t try and do to much. You want to build an &lt;em&gt;awesome&lt;/em&gt; design conference? Do that! Don’t shoehorn in some 101 technical topics just to try and sell some tickets.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The first conference you put on &lt;em&gt;is&lt;/em&gt; going to be hard, building a brand and an audience is &lt;em&gt;even harder&lt;/em&gt; (the number of one-off conferences can attest to that) but both get easier when you leave a smaller number of people incredibly satisfied than a broader group feeling a little disappointed. &lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Feb 2015 16:44:43 +0000</pubDate>
+        <link>http://joe8bit.com/article/on-conference-topics</link>
+        <guid isPermaLink="true">http://joe8bit.com/article/on-conference-topics</guid>
+        
+        
+        <category>article</category>
+        
+      </item>
+    
+      <item>
+        <title>EnterJS</title>
+        <description>&lt;p&gt;In this talk, we go through how secutiry in the client has changed (and needs to change more) in these days of thick clientside applications. WE talk through the decades of practice from network security that we can apply to our applications. We talk about how new API’s are changing the way that we think about client-side security. Finally, we wrap up with a discussion of testing appplication security is changing.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Feb 2015 13:45:00 +0000</pubDate>
+        <link>http://joe8bit.com/talk/enterjs</link>
+        <guid isPermaLink="true">http://joe8bit.com/talk/enterjs</guid>
+        
+        
+        <category>talk</category>
+        
+      </item>
+    
+      <item>
+        <title>ChicagoWebConf</title>
+        <description>&lt;p&gt;In this talk, we go through how secutiry in the client has changed (and needs to change more) in these days of thick clientside applications. WE talk through the decades of practice from network security that we can apply to our applications. We talk about how new API’s are changing the way that we think about client-side security. Finally, we wrap up with a discussion of testing appplication security is changing.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Feb 2015 13:45:00 +0000</pubDate>
+        <link>http://joe8bit.com/talk/chicagowebconf</link>
+        <guid isPermaLink="true">http://joe8bit.com/talk/chicagowebconf</guid>
+        
+        
+        <category>talk</category>
+        
+      </item>
+    
+      <item>
+        <title>FullStack</title>
+        <description>&lt;p&gt;In this talk, we go through how secutiry in the client has changed (and needs to change more) in these days of thick clientside applications. WE talk through the decades of practice from network security that we can apply to our applications. We talk about how new API’s are changing the way that we think about client-side security. Finally, we wrap up with a discussion of testing appplication security is changing.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Oct 2014 14:45:00 +0100</pubDate>
+        <link>http://joe8bit.com/talk/fullstack</link>
+        <guid isPermaLink="true">http://joe8bit.com/talk/fullstack</guid>
+        
+        
+        <category>talk</category>
+        
+      </item>
+    
+      <item>
+        <title>Angular Error Shipper</title>
+        <description>&lt;p&gt;Tracking clientside errors is always a pain. There are services you can use that aggregate data from naive constructors like binding &lt;code&gt;window.onError&lt;/code&gt; and the like, but for a long time these have felt a little blunt.&lt;/p&gt;
+
+&lt;p&gt;So about a year ago I put together an Angular error shipper, it’s purpose was to provide an easy interface to shipping clientside errors and exceptions to an arbitrary number of serverside endpoints all from within Angular’s stack. SO as to take advantage of all it’s own error handling and reporting.&lt;/p&gt;
+
+&lt;p&gt;I’ve just finished putting this together into a bower and npm module that you can checkout out (&lt;a href=&quot;https://github.com/Joe8bit/angular-error-shipper&quot;&gt;github.com/Joe8bit/angular-error-shipper&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;It deliberately only does two things:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;provide a sensible set of defaults for shipping error messages to a backend system (like LogStash)&lt;/li&gt;
+  &lt;li&gt;provide a mechanism for the user to implement an arbitrary number of shipper middlewares&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ve used this at a 3/4 clients already and it’s always been very successfully utilised. However, it has to be said this module is only as useful as the method you use for surfacing this data. I’ve found that the LogStash/Kibana combo works very well.&lt;/p&gt;
+
+&lt;p&gt;There are a couple of things on the roadmap for this module:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Add the optional ability to run all or an arbitrary number of the shipper middleware’s in a WebWorker so as not to tie up the rendering thread&lt;/li&gt;
+  &lt;li&gt;Add the ability to turn off this error shipping when running protractor e2e tests, as anecdotally I’ve seen some performance regressions for it when e2e testing bad paths in complex UIs.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If there’s something more you want from it please feel free to create and issue on Github or reach out on Twitter!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 Sep 2014 17:44:43 +0100</pubDate>
+        <link>http://joe8bit.com/article/angular-error-shipper</link>
+        <guid isPermaLink="true">http://joe8bit.com/article/angular-error-shipper</guid>
+        
+        
+        <category>article</category>
+        
+      </item>
+    
+      <item>
+        <title>Abandoned Tube Stations</title>
+        <description>&lt;p&gt;Growing up around Kentish Town there were always rumours about an old abandoned tube station. It was variously claimed people had held raves down there in the 80’s; that it was used as some kind of bizarre goth sex dungeon; or even, that it was the place ‘they’ buried that kid who just left school suddenly. While none of these were true (except we still haven’t found little Timmy, coincidence, I think not!) the truth was it self like part of a (quite literally) forgotten underground. A part of London that existed, and yet very people knew anything about, save the innuendo of bored adolescents.&lt;/p&gt;
+
+&lt;p&gt;Only when I grew up and Google made researching these things easy did I discover that the station did actually exist: it was &lt;a href=&quot;http://en.wikipedia.org/wiki/South_Kentish_Town_tube_station&quot;&gt;South Kentish Town&lt;/a&gt; and that it was every bit as real as all out stupid stories had been imaginary.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/South_Kentish_Town_former_tube_station_2005.jpg/1200px-South_Kentish_Town_former_tube_station_2005.jpg&quot; alt=&quot;South Kentish Town former tube station 2005.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;photo-credit&quot;&gt;
+	&quot;&lt;a href=&quot;http://commons.wikimedia.org/wiki/File:South_Kentish_Town_former_tube_station_2005.jpg#mediaviewer/File:South_Kentish_Town_former_tube_station_2005.jpg&quot;&gt;South Kentish Town former tube station 2005&lt;/a&gt;&quot;. Licensed under &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/2.0&quot; title=&quot;Creative Commons Attribution-Share Alike 2.0&quot;&gt;CC BY-SA 2.0&lt;/a&gt; via &lt;a href=&quot;//commons.wikimedia.org/wiki/&quot;&gt;Wikimedia Commons&lt;/a&gt;.
+&lt;/div&gt;
+
+&lt;p&gt;In hindsight, it was obvious: the tiling, the colour, the second exit that stands just behind where this photo was taken that leads down to nothing.&lt;/p&gt;
+
+&lt;p&gt;Not only are there dozens of these stations dotted around London and outside it, there are entire lines that have been closed that lead dozens of miles out of London. In my search to get more information about this subject, I came across &lt;a href=&quot;http://www.abandonedstations.org.uk/&quot;&gt;this wonderfully 1990’s website&lt;/a&gt; where someone has loving indulged and curated a very good list of the stations, when this was combined with another &lt;a href=&quot;http://en.wikipedia.org/wiki/List_of_former_and_unopened_London_Underground_stations&quot;&gt;fantastic Wikipedia resource&lt;/a&gt; I knew I had the beginnings of a cool data project.&lt;/p&gt;
+
+&lt;p&gt;Over the course of a couple weekends I put it together using AngularJS, MapBox and and some GeoJSON. However, I ran into a problem, what would I use to indicate the tube lines? I’d need a geographically accurate map of London’s Tube network. Uh oh.&lt;/p&gt;
+
+&lt;p&gt;Only when I found &lt;a href=&quot;https://maps.google.co.uk/maps/u/0/ms?t=k&amp;amp;ie=UTF8&amp;amp;oe=UTF8&amp;amp;msa=0&amp;amp;msid=108379411858867139440.0000011232a74ceee639f&amp;amp;dg=feature&quot;&gt;this Google map&lt;/a&gt; did the project come to completion. One of the issues I had, and that I found a little perplexing, was the way that MapBox rendered the default KML output from Google Maps, it never rendered the Polyline output right and never seemd to respect the styling data. What I &lt;em&gt;really&lt;/em&gt; didn’t want to do was spend hours/days/months hand converting KML to GeoJSON, there are lots of tools for automating this process but none of them supported the conversion of the (god awful) XML based styling syntax of KML layers to the (just a little but less awful) GeoJSON styling metadata, but having tried a couple of tools I ended up using MapBox’s own &lt;a href=&quot;https://github.com/mapbox/togeojson&quot;&gt;toGeoJson&lt;/a&gt; which while it didn’t solve the styling problem it did produce very clean GeoJSON output that I would then (ugh) manually annotate with the correctly styling information.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/project/abandoned-tube-stations/&quot;&gt;So take a look at the project!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As with most experiments, this one is available and open sourced (under the MIT license) &lt;a href=&quot;https://github.com/Joe8Bit/abandoned-stations&quot;&gt;on Github&lt;/a&gt;. If you run into any issues with the little app, I’d really appreciate it if you would reach &lt;a href=&quot;https://twitter.com/Joe8Bit&quot;&gt;out Twitter&lt;/a&gt; or &lt;a href=&quot;https://github.com/Joe8Bit/abandoned-stations/issues&quot;&gt;file a Github issue!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Sep 2014 19:12:00 +0100</pubDate>
+        <link>http://joe8bit.com/article/abandoned-tube-stations</link>
+        <guid isPermaLink="true">http://joe8bit.com/article/abandoned-tube-stations</guid>
+        
+        
+        <category>article</category>
+        
+      </item>
+    
+      <item>
+        <title>MapBox: HTML markers with GeoJson layers</title>
+        <description>&lt;p&gt;I’m a &lt;strong&gt;big&lt;/strong&gt; fan of MapBox, I use it wherever I can when I need maps (CartCSS + TileMill is a ray of sunshine in the otherwise crappy world of custom maps).&lt;/p&gt;
+
+&lt;p&gt;One of the main reasons I love their service so much is the quality of their documentation, which rarely fails to present an answer to a question I’ve had, until this instance.&lt;/p&gt;
+
+&lt;p&gt;So in the interest in saving a few minutes of pissing about, below is my solution to using custom HTML markers when rendering GeoJSON layers with Mapbox.js&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Create your map is you normally would&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;L&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mapbox&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;accessToken&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;YOUR_TOKEN&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;map&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;L&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mapbox&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;map&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;map&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;YOUR_MAP&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setView&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;YOUR_LAT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;YOUR_LONG&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;YOUR_ZOOM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Add a layer with no data set as the first arg to featureLayer()&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// This is done to prevent the default marker icons rendering&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;layer&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;L&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mapbox&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;featureLayer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;().&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;addTo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;map&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// When the &amp;#39;layeradd&amp;#39; event is fired (when we add the geoJSON below)&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;layer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;on&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;layeradd&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;marker&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;layer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;feature&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;marker&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;feature&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	
+	&lt;span class=&quot;c1&quot;&gt;// This is where the magic happens...&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;marker&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setIcon&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;L&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;divIcon&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;className&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;YOUR_ICON_CLASS&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Make sure you set an icon class here, otherwise default styles will be set by Mapbox&amp;#39;s CSS&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;html&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;&amp;lt;h1&amp;gt;Hello World&amp;lt;/h1&amp;gt;&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// The content of your HTML marker, you can build a string based on the marker properties by using &amp;#39;feature.properties.your_property&amp;#39;&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;iconSize&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;60&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;60&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// The bounds for your icon&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}));&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Now set your data and render the map&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;layer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setGeoJSON&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;YOUR_GEOJSON_DATA&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;I can’t say for sure this is the &lt;strong&gt;best&lt;/strong&gt; way to do it, but it works nicely and performantly for me.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Aug 2014 13:14:43 +0100</pubDate>
+        <link>http://joe8bit.com/article/mapbox-html-markers-with-geojson</link>
+        <guid isPermaLink="true">http://joe8bit.com/article/mapbox-html-markers-with-geojson</guid>
+        
+        
+        <category>article</category>
+        
+      </item>
+    
+      <item>
+        <title>Jekyll: generate body class</title>
+        <description>&lt;p&gt;In the process of moving the site you’re reading from Wordpress to Jekyll, one of the things that most appealed to me was Jekyll’s plugin API. I can now say with great pleasure, that gone are the days when I’d spend hour pouring of the (not great) Wordpress plugin API docs. Not to mention that the fact there is no longer any dark corners of my life where PHP lurks, waiting to jump up and bite me in the ass.&lt;/p&gt;
+
+&lt;p&gt;In an attempt to get to grips with this new wonderland, I created a small plugin for Jekyll that allows you to add contextual classes to a &lt;code&gt;body&lt;/code&gt; element. In the context of this site, it is the thing that powers the ability to have radically different styles and layouts on different pages.&lt;/p&gt;
+
+&lt;p&gt;The code is relativley simlple, simple add this to your &lt;code&gt;_plugins&lt;/code&gt; directory (create it at the root of your site, if it doesn’t exist) and name it anything you like, I choose &lt;code&gt;bodyClass.rb&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;BodyClassTag&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Liquid&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Tag&lt;/span&gt;  
+
+  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;generate_body_class&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;prefix&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;nb&quot;&gt;id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gsub&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/\.\w*?$/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gsub&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/[-\/]/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;_&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gsub&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/^_/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# Remove extension from url, replace &amp;#39;-&amp;#39; and &amp;#39;/&amp;#39; with underscore, Remove leading &amp;#39;_&amp;#39;&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;prefix&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;when&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;class&amp;quot;&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;prefix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;prefix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;prefix&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;_&amp;quot;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+    &lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;prefix&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;render&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;page&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;environments&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;page&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;classes&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt;
+
+    &lt;span class=&quot;sx&quot;&gt;%w[class url categories tags layout]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;each&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;prop&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;next&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;unless&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;page&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;has_key?&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;prop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;page&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;prop&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;kind_of?&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;Array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;page&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;prop&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;each&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;proper&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;classes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;push&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;generate_body_class&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;prop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;proper&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;classes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;push&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;generate_body_class&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;prop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;page&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;prop&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;classes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+&lt;span class=&quot;no&quot;&gt;Liquid&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Template&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;register_tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;body_class&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;BodyClassTag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Utilising it is then as simple as adding this Liquid tag to whichever layout you choose, for instance &lt;code&gt;_layouts/default.html&lt;/code&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{% body_class %}&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 24 Aug 2014 23:44:43 +0100</pubDate>
+        <link>http://joe8bit.com/article/jekyll-generate-body-class</link>
+        <guid isPermaLink="true">http://joe8bit.com/article/jekyll-generate-body-class</guid>
+        
+        
+        <category>article</category>
+        
+      </item>
+    
+      <item>
+        <title>JSChannel</title>
+        <description>&lt;p&gt;In this 1h 45m workshop we went through the technology behind and the solutions to, building a truly scalable and resistant video chat application that values user provacy and security.&lt;/p&gt;
+
+&lt;p&gt;Talking through the main technology points:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;getUserMedia&lt;/li&gt;
+  &lt;li&gt;WebAudio&lt;/li&gt;
+  &lt;li&gt;WebRTCPeerConnection&lt;/li&gt;
+  &lt;li&gt;Data channels&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Before finally putting it all together into an Angular JS base chat application.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Jul 2014 10:00:00 +0100</pubDate>
+        <link>http://joe8bit.com/talk/jschannel</link>
+        <guid isPermaLink="true">http://joe8bit.com/talk/jschannel</guid>
+        
+        
+        <category>talk</category>
+        
+      </item>
+    
+  </channel>
+</rss>

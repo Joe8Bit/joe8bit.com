@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://joe8bit.com/article/the-toxicity-of-arrogance</loc>
+    <lastmod>2015-02-23T16:44:43+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/article/on-conference-topics</loc>
+    <lastmod>2015-02-22T16:44:43+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/talk/enterjs</loc>
+    <lastmod>2015-02-18T13:45:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/talk/chicagowebconf</loc>
+    <lastmod>2015-02-18T13:45:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/talk/fullstack</loc>
+    <lastmod>2014-10-24T14:45:00+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/article/angular-error-shipper</loc>
+    <lastmod>2014-09-28T17:44:43+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/article/abandoned-tube-stations</loc>
+    <lastmod>2014-09-07T19:12:00+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/article/mapbox-html-markers-with-geojson</loc>
+    <lastmod>2014-08-25T13:14:43+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/article/jekyll-generate-body-class</loc>
+    <lastmod>2014-08-24T23:44:43+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/talk/jschannel</loc>
+    <lastmod>2014-07-19T10:00:00+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/talk/scotland-js</loc>
+    <lastmod>2014-05-09T10:00:00+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/talk/jsconf-uy</loc>
+    <lastmod>2014-03-14T09:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/talk/london-js</loc>
+    <lastmod>2014-02-13T09:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://joe8bit.com/error.html</loc>
+    <lastmod>2016-01-06T18:12:28+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/</loc>
+    <lastmod>2016-01-06T18:12:28+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/photos/</loc>
+    <lastmod>2016-01-06T18:12:28+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/talks/</loc>
+    <lastmod>2016-01-06T18:12:28+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/articles/</loc>
+    <lastmod>2016-01-06T18:12:28+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://joe8bit.com/js/webgl/car/index.html</loc>
+    <lastmod>2016-01-06T12:52:28Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/js/webgl/multi.html</loc>
+    <lastmod>2016-01-06T12:52:28Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/project/abandoned-tube-stations/index.html</loc>
+    <lastmod>2016-01-06T12:52:28Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/project/abandoned-tube-stations/views/main.html</loc>
+    <lastmod>2016-01-06T12:52:28Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/project/abandoned-tube-stations/views/partials/currentline.html</loc>
+    <lastmod>2016-01-06T12:52:28Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/project/abandoned-tube-stations/views/partials/lines.html</loc>
+    <lastmod>2016-01-06T12:52:28Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/project/abandoned-tube-stations/views/partials/map.html</loc>
+    <lastmod>2016-01-06T12:52:28Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/project/abandoned-tube-stations/views/partials/masthead.html</loc>
+    <lastmod>2016-01-06T12:52:28Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://joe8bit.com/project/abandoned-tube-stations/views/partials/station.html</loc>
+    <lastmod>2016-01-06T12:52:28Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
