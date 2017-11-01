@@ -1,0 +1,12 @@
+dependencies:
+  override:
+    - gem install s3_website
+test:
+  override:
+    - echo "lol no tests"
+deployment:
+  prod:
+    branch: master
+    commands:
+      - s3_website cfg apply
+      - s3_website push
