@@ -1,0 +1,16 @@
+# You can remove the first two lines to have credentials read from
+# the environment variables AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY or
+# ~/.aws/credentials.
+s3_id: <%= ENV['AWS_ACCESS_KEY_ID'] %>
+s3_secret: <%= ENV['AWS_SECRET_ACCESS_KEY'] %>
+s3_bucket: joe8bit.com
+
+site: public
+index_document: index.html
+error_document: error.html
+cache_control: must-revalidate, max-age=1200
+gzip: true
+gzip_zopfli: true
+cloudfront_distribution_id: EIV3H0APFJRGD
+cloudfront_wildcard_invalidation: true
+exclude_from_upload: .DS_Store

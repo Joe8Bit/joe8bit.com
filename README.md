@@ -1,7 +1,7 @@
 ## Joe8Bit.com
 
-Currently manually dpeloyed through AWS console drag and drop (ew)
+Currently locally deployed through s3_website rub gem (ew)
 
 TODO:
 
-* Auto deploy to S3 from CirclCi
+* Deploy from CircleCI
