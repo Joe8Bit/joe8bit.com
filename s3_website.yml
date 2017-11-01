@@ -1,8 +1,6 @@
 # You can remove the first two lines to have credentials read from
 # the environment variables AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY or
 # ~/.aws/credentials.
-s3_id: <%= ENV['AWS_ACCESS_KEY_ID'] %>
-s3_secret: <%= ENV['AWS_SECRET_ACCESS_KEY'] %>
 s3_bucket: joe8bit.com
 
 site: public
