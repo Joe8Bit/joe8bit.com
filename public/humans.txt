@@ -5,10 +5,6 @@
 
     Joe Pettersson -- Space Cowboy -- @Joe8Bit
 
-# THANKS
-
-    <name>
-
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5
